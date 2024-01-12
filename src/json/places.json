@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "author": "Michale",
+      "title": "Journey through the Heart of Cambodia: Exploring Siem Reap",
+      "content": "Welcome, fellow travelers, to an enchanting journey through the cultural tapestry of Cambodia! In this blog post, we'll embark on an adventure that takes us from the bustling streets of Cambodia to the mesmerizing city of Siem Reap, a gateway to the world-renowned Angkor Wat.",
+      "date": "2023-01-01",
+      "image": "image/hero_1.jpeg"
+    },
+    {
+      "id": 2,
+      "author": "Jimmy",
+      "title": "Battambang: A Hidden Gem of Cambodia",
+      "content": "Welcome, fellow adventurers, to a lesser-known treasure of Cambodia – the charming city of Battambang. Nestled in the northwest part of the country, Battambang offers a unique blend of cultural richness, historical significance, and natural beauty. Join us on a virtual journey as we explore the hidden gems of this captivating destination.",
+      "date": "2023-02-15",
+      "image": "image/hero_2.jpeg"
+    },
+    {
+        "id": 3,
+        "author": "Michale",
+        "title": "Sihanoukville: A Coastal Paradise",
+        "content": "Welcome to Sihanoukville, a hidden gem nestled along the pristine shores of the Gulf of Thailand. Join us as we embark on a journey to discover the sun-kissed beaches, lively atmosphere, and tropical wonders that make Sihanoukville a must-visit destination.        ",
+        "date": "2023-01-01",
+        "image": "image/hero_3.png"
+    },
+    {
+        "id": 4,
+        "author": "Michale",
+        "title": "Discovering Mondulkiri: Cambodia's Eastern Gem",
+        "content": "Welcome to Mondulkiri, a province where rolling hills, dense forests, and the vibrant culture of indigenous communities converge to create a truly unique Cambodian experience. Join us on this virtual adventure as we explore the natural wonders and cultural richness of Mondulkiri.",
+        "date": "2023-01-01",
+        "image": "image/hero_4.jpeg"
+    },
+    {
+        "id": 5,
+        "author": "Michale",
+        "title": "Exploring Kampot: A Riverside Haven",
+        "content": "Welcome to Kampot, a town where the slow flow of the Kampot River meets the tranquility of the Cambodian countryside. Join us on this virtual adventure as we explore the historical charm, culinary delights, and natural beauty that define the allure of Kampot.",
+        "date": "2023-01-01",
+        "image": "image/hero_5.jpeg"
+    },
+    {
+      "id": 6,
+      "author": "Michale",
+      "title": "Journey through the Heart of Cambodia: Exploring Siem Reap",
+      "content": "Welcome, fellow travelers, to an enchanting journey through the cultural tapestry of Cambodia! In this blog post, we'll embark on an adventure that takes us from the bustling streets of Cambodia to the mesmerizing city of Siem Reap, a gateway to the world-renowned Angkor Wat.",
+      "date": "2023-01-01",
+      "image": "image/hero_1.jpeg"
+    },
+    {
+      "id": 7,
+      "author": "Jimmy",
+      "title": "Battambang: A Hidden Gem of Cambodia",
+      "content": "Welcome, fellow adventurers, to a lesser-known treasure of Cambodia – the charming city of Battambang. Nestled in the northwest part of the country, Battambang offers a unique blend of cultural richness, historical significance, and natural beauty. Join us on a virtual journey as we explore the hidden gems of this captivating destination.",
+      "date": "2023-02-15",
+      "image": "image/hero_2.jpeg"
+    },
+    {
+        "id": 8,
+        "author": "Michale",
+        "title": "Sihanoukville: A Coastal Paradise",
+        "content": "Welcome to Sihanoukville, a hidden gem nestled along the pristine shores of the Gulf of Thailand. Join us as we embark on a journey to discover the sun-kissed beaches, lively atmosphere, and tropical wonders that make Sihanoukville a must-visit destination.        ",
+        "date": "2023-01-01",
+        "image": "image/hero_3.png"
+    },
+    {
+        "id": 9,
+        "author": "Michale",
+        "title": "Discovering Mondulkiri: Cambodia's Eastern Gem",
+        "content": "Welcome to Mondulkiri, a province where rolling hills, dense forests, and the vibrant culture of indigenous communities converge to create a truly unique Cambodian experience. Join us on this virtual adventure as we explore the natural wonders and cultural richness of Mondulkiri.",
+        "date": "2023-01-01",
+        "image": "image/hero_4.jpeg"
+    },
+    {
+        "id": 10,
+        "author": "Michale",
+        "title": "Exploring Kampot: A Riverside Haven",
+        "content": "Welcome to Kampot, a town where the slow flow of the Kampot River meets the tranquility of the Cambodian countryside. Join us on this virtual adventure as we explore the historical charm, culinary delights, and natural beauty that define the allure of Kampot.",
+        "date": "2023-01-01",
+        "image": "image/hero_5.jpeg"
+    }
+  ]
+  
